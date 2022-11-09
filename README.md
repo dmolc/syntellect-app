@@ -1,5 +1,5 @@
 
-#[DEMO](https://dmolc.github.io/syntellect-app/)
+# [DEMO](https://dmolc.github.io/syntellect-app/)
 
 
 # Тестовое задание
